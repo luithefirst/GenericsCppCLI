@@ -1,0 +1,9 @@
+/src/CSharpLibrary/bin
+/src/CSharpLibrary/obj
+/src/NativeWrapper/Debug
+/src/NativeWrapper/x64
+/src/NativeWrapper/*.user
+/src/TestApp/obj
+/src/TestApp/bin
+/.vs
+/src/NativeWrapper/Win32
